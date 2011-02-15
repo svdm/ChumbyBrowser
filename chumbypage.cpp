@@ -1,3 +1,6 @@
+// Copyright (c) 2011  Stefan A. van der Meer
+// See "LICENSE" file included with source code for terms and conditions.
+
 #include "chumbypage.h"
 
 #include <QWebFrame>
