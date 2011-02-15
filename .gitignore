@@ -1,0 +1,13 @@
+*.pro.user
+Makefile*
+*~
+*#
+debug
+release
+test
+bak
+.moc
+.obj
+.pch
+.uic
+qtc-gdbmacros
